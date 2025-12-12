@@ -1,0 +1,6 @@
+PIC/S_R2: Raw data is defined as the original record (data) which can be described as the first capture of information, whether recorded on paper or electronically.
+A22_8: The outputs of the AI model should be explainable, meaning that the AI model must be able to describe how it reached a given output.
+P11_300: Identification code and password issuances are periodically checked, recalled, or revised (e.g., to cover such events as password aging).
+P11_10_B: The company must employ procedures and controls designed to ensure the authenticity, integrity, and, as appropriate, the confidentiality of electronic records and signatures.
+21_CFR_211_194_A: Laboratory records shall include complete data derived from all tests necessary to assure compliance with established specifications and standards.
+21_CFR_820_70_I: When computers or automated data processing systems are used as part of the quality system, the manufacturer shall establish procedures to assure that the computer software has been validated for its intended use.
